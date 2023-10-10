@@ -166,7 +166,7 @@ header{
 }
 
 .item:hover img{
-    transform: auto;
+    transform: scale(1.2);
 }
 
 .info-product{
